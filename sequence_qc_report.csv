@@ -1,0 +1,6 @@
+Protein_ID,Protein_Length,Invalid_Characters,Duplicate_Of,QC_Status
+sp|Q0JQF7|DRE2A_ORYSJ,274,None,None,PASS
+sp|Q3T5N4|DRE1B_ORYSJ,218,None,None,PASS
+sp|Q64MA1|DRE1A_ORYSJ,238,None,None,PASS
+sp|Q6J1A5|DRE1D_ORYSJ,253,None,None,PASS
+sp|Q9LWV3|DRE1C_ORYSJ,214,None,None,PASS
