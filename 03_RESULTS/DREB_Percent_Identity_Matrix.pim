@@ -1,0 +1,11 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|Q0JQF7|DRE2A_ORYSJ  100.00   23.53   30.17   28.27   26.90
+     2: sp|Q6J1A5|DRE1D_ORYSJ   23.53  100.00   37.62   37.25   37.44
+     3: sp|Q9LWV3|DRE1C_ORYSJ   30.17   37.62  100.00   51.53   47.94
+     4: sp|Q3T5N4|DRE1B_ORYSJ   28.27   37.25   51.53  100.00   62.76
+     5: sp|Q64MA1|DRE1A_ORYSJ   26.90   37.44   47.94   62.76  100.00
