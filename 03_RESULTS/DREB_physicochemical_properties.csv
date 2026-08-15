@@ -1,0 +1,6 @@
+Protein_ID,Description,Length_aa,Molecular_Weight_Da,Theoretical_pI,GRAVY,Instability_Index,Aliphatic_Index,Aromaticity,Acidic_Residues_DE,Basic_Residues_KR,Acidic_Percentage,Basic_Percentage
+sp|Q0JQF7|DRE2A_ORYSJ,sp|Q0JQF7|DRE2A_ORYSJ Dehydration-responsive element-binding protein 2A OS=Oryza sativa subsp. japonica OX=39947 GN=DREB2A PE=2 SV=1,274,30664.89,5.774,-0.845,43.37,59.781,0.0693,44,40,16.06,14.6
+sp|Q6J1A5|DRE1D_ORYSJ,sp|Q6J1A5|DRE1D_ORYSJ Dehydration-responsive element-binding protein 1D OS=Oryza sativa subsp. japonica OX=39947 GN=DREB1D PE=2 SV=1,253,27667.87,10.181,-0.029,49.601,80.711,0.0711,14,31,5.53,12.25
+sp|Q9LWV3|DRE1C_ORYSJ,sp|Q9LWV3|DRE1C_ORYSJ Dehydration-responsive element-binding protein 1C OS=Oryza sativa subsp. japonica OX=39947 GN=DREB1C PE=2 SV=1,214,23110.22,5.01,-0.542,59.566,52.757,0.1075,29,22,13.55,10.28
+sp|Q3T5N4|DRE1B_ORYSJ,sp|Q3T5N4|DRE1B_ORYSJ Dehydration-responsive element-binding protein 1B OS=Oryza sativa subsp. japonica OX=39947 GN=DREB1B PE=2 SV=1,218,23237.62,5.22,-0.304,59.308,65.183,0.0963,30,25,13.76,11.47
+sp|Q64MA1|DRE1A_ORYSJ,sp|Q64MA1|DRE1A_ORYSJ Dehydration-responsive element-binding protein 1A OS=Oryza sativa subsp. japonica OX=39947 GN=DREB1A PE=2 SV=1,238,25389.85,5.053,-0.39,61.995,63.319,0.0714,33,25,13.87,10.5
