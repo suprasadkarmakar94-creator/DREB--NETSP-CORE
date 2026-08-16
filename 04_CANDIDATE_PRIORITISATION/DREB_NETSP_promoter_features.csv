@@ -1,0 +1,6 @@
+Candidate,Gene,promoter_chrom,promoter_start,promoter_end,promoter_length_bp,motif_hits,motif_overlap_bp,motif_CE_hits,motif_CE_overlap_bp,FunTFBS_hits,FunTFBS_overlap_bp,conserved_elements,conserved_element_overlap_bp,conserved_element_score_sum
+DREB2A,LOC_Os01g07120,Chr1,3355286,3357386,2100,60,1055,0,0,7,105,3,87,42.0
+DREB1D,LOC_Os06g06970,Chr6,3308865,3310965,2100,85,1382,0,0,0,0,0,0,0.0
+DREB1C,LOC_Os06g03670,Chr6,1432730,1434830,2100,44,796,1,11,0,0,3,82,109.0
+DREB1B,LOC_Os09g35010,Chr9,20396105,20398205,2100,24,427,0,0,0,0,2,58,50.0
+DREB1A,LOC_Os09g35030,Chr9,20404232,20406332,2100,7,127,0,0,0,0,2,64,22.0

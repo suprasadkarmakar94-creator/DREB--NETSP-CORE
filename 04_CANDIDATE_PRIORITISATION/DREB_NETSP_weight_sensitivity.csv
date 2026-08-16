@@ -1,0 +1,6 @@
+candidate,mean_rank,median_rank,top1_frequency,top2_frequency
+DREB1B,1.304,1.0,0.771,0.925
+DREB1C,2.399,3.0,0.228,0.373
+DREB1A,2.494,2.0,0.0,0.627
+DREB2A,4.004,4.0,0.001,0.075
+DREB1D,4.799,5.0,0.0,0.0

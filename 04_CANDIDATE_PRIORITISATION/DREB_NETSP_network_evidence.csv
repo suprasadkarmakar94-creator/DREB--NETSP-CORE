@@ -1,0 +1,6 @@
+Candidate,Gene,network_targets,network_relationships,network_evidence_types,network_has_evidence,motif_relationships,motif_CE_relationships,FunTFBS_relationships
+DREB2A,LOC_Os01g07120,16694,20716,"FunTFBS;FunTFBS, motif;FunTFBS, motif, motif_CE;motif;motif, motif_CE;motif_CE",True,13059,2915,1107
+DREB1D,LOC_Os06g06970,0,0,,False,0,0,0
+DREB1C,LOC_Os06g03670,0,0,,False,0,0,0
+DREB1B,LOC_Os09g35010,0,0,,False,0,0,0
+DREB1A,LOC_Os09g35030,0,0,,False,0,0,0

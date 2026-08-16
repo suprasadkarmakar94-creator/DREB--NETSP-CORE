@@ -1,0 +1,46 @@
+DREB-NETSP INTEGRATED PIPELINE REPORT
+======================================================================
+
+Candidates:
+  DREB2A: LOC_Os01g07120 / Q0JQF7
+  DREB1D: LOC_Os06g06970 / Q6J1A5
+  DREB1C: LOC_Os06g03670 / Q9LWV3
+  DREB1B: LOC_Os09g35010 / Q3T5N4
+  DREB1A: LOC_Os09g35030 / Q64MA1
+
+Core score weights:
+  evolution: 0.40
+  promoter_regulation: 0.30
+  structure: 0.30
+
+Important interpretation safeguards:
+- Missing evidence is not automatically interpreted as biological absence.
+- Uniform InterPro/function annotations are retained but not used to rank.
+- PlantRegMap TF-target network evidence is auxiliary unless source coverage is comparable.
+- Scores prioritize hypotheses; they do not prove causal drought tolerance.
+
+Ranking:
+  1. DREB1B (LOC_Os09g35010) score=0.831
+  2. DREB1A (LOC_Os09g35030) score=0.753
+  3. DREB1C (LOC_Os06g03670) score=0.697
+  4. DREB2A (LOC_Os01g07120) score=0.323
+  5. DREB1D (LOC_Os06g06970) score=0.212
+
+Network evidence:
+Candidate           Gene  network_targets  network_relationships                                                         network_evidence_types  network_has_evidence  motif_relationships  motif_CE_relationships  FunTFBS_relationships
+   DREB2A LOC_Os01g07120            16694                  20716 FunTFBS;FunTFBS, motif;FunTFBS, motif, motif_CE;motif;motif, motif_CE;motif_CE                  True                13059                    2915                   1107
+   DREB1D LOC_Os06g06970                0                      0                                                                                                False                    0                       0                      0
+   DREB1C LOC_Os06g03670                0                      0                                                                                                False                    0                       0                      0
+   DREB1B LOC_Os09g35010                0                      0                                                                                                False                    0                       0                      0
+   DREB1A LOC_Os09g35030                0                      0                                                                                                False                    0                       0                      0
+
+Sensitivity summary (1000 random weight combinations):
+candidate  mean_rank  median_rank  top1_frequency  top2_frequency
+   DREB1B      1.304          1.0           0.771           0.925
+   DREB1C      2.399          3.0           0.228           0.373
+   DREB1A      2.494          2.0           0.000           0.627
+   DREB2A      4.004          4.0           0.001           0.075
+   DREB1D      4.799          5.0           0.000           0.000
+
+Phylogeny:
+C:\Users\supra\Downloads\results\DREB_NETSP_NJ_tree.newick
